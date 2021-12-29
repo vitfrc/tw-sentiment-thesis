@@ -1,1 +1,1 @@
-# tw-sentiment-thesis
+# twitter-sentiment-analysis
