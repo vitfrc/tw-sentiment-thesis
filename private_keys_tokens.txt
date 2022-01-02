@@ -1,5 +1,0 @@
-api key fqmXXhiRZAIJarBESLrDFNCzM
-api secret OMO2UA1QFybdS4c3MTKv0zBrA0RYUxPAe7CpxBWWhYvlWTXaZD
-
-access token 2656923476-ZNjG14cT7xhqBnMhhuMLetBiAkZF2TNTS28Wl76
-access token secret z0HkS65eVajUfRHqxFvfc9Gt6zwq8mVbkNUbtqTUzdMOS
